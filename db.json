@@ -60,5 +60,12 @@
         "age": 20,
         "email": "cnorssister9@mayoclinic.com"
       }
+    ],
+    "register":[
+        {
+            "username":"rehan",
+            "email":"mrrehan82749@gmail.com",
+            "password":"itsyourbabeRehan"
+        }
     ]
   }
