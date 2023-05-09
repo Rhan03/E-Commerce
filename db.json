@@ -1,5 +1,5 @@
 {
-    "user_register": [
+    "register": [
       {
         "id": 1,
         "name": "rehan",
@@ -8,7 +8,7 @@
         "password": "rehan"
       }
     ],
-    "user_login": [
+    "login": [
         {
           "id": 1,
           "name": "rehan",
@@ -20,18 +20,94 @@
       "admin_login": [
         {
           "id": 1,
-          "name": "rehan",
-          "age": 19,
           "email": "rehan@gmail.com",
           "password": "rehan"
         }
       ],
       "home":[
         {
-            "image":"",
-            "brand":"",
-            "price":"",
-            "desc":""
+            "id": 1,
+            "image": "",
+            "image1": "",
+            "image2": "",
+            "image3": "",
+            "brand": "",
+            "price": "",
+            "MRP": "",
+            "discount": "",
+            "desc": ""
         }
-    ]
+    ],
+    "men":[
+      {
+          "id": 1,
+          "image": "",
+          "image1": "",
+          "image2": "",
+          "image3": "",
+          "brand": "",
+          "price": "",
+          "MRP": "",
+          "discount": "",
+          "desc": ""
+      }
+  ],
+  "women":[
+    {
+        "id": 1,
+        "image": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "brand": "",
+        "price": "",
+        "MRP": "",
+        "discount": "",
+        "desc": ""
+    }
+],
+"kid":[
+  {
+      "id": 1,
+      "image": "",
+      "image1": "",
+      "image2": "",
+      "image3": "",
+      "brand": "",
+      "price": "",
+      "MRP": "",
+      "discount": "",
+      "desc": ""
+  }
+],
+"footwears":[
+  {
+      "id": 1,
+      "image": "",
+      "image1": "",
+      "image2": "",
+      "image3": "",
+      "brand": "",
+      "price": "",
+      "MRP": "",
+      "discount": "",
+      "desc": ""
+  }
+],
+"bags":[
+  {
+      "id": 1,
+      "image": "",
+      "image1": "",
+      "image2": "",
+      "image3": "",
+      "brand": "",
+      "price": "",
+      "MRP": "",
+      "discount": "",
+      "desc": ""
+  }
+],
+"cart":[],
+"wishlist":[]
   }
